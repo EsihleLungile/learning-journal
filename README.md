@@ -12,21 +12,5 @@ This repository tracks my **cloud, networking, and security learning journey**, 
 
 ---
 
-## 🗂️ Structure
-
-/aws/
-- IAM_Notes.md
-- EC2_Setup.md
-
-/linux/
-- Common_Commands.md
-- Log_Troubleshooting.md
-  
-/networking/
-- OSI_Model.md
-- Ping_Traces.md
-
----
-
 ## 🌟 Learning Philosophy
 > “Document what you learn — it’s the best way to measure growth and help others.”  
